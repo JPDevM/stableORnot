@@ -1,8 +1,0 @@
-.texTruncated {
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-.setHeight {
-  min-height: 10vw;
-  max-height: 10vw;
-}
